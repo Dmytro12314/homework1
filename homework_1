@@ -1,5 +1,3 @@
-
-
 const userName = prompt('What is  your name?');
 // змінна яка питає імя користувача 
 const userAge = prompt ('How old are you?')
